@@ -1,4 +1,4 @@
-Inequality & Mass Transit in the Bay Area
+Inequality & Mass Transit in the Mass Bay Area
 =====================
 
 This is a mashup to overlay demographic info with the all the major mass transit routes for the city of Boston.
