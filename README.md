@@ -3,6 +3,25 @@ Inequality & Mass Transit in the Mass Bay Area
 
 This is a mashup to overlay demographic info with the all the major mass transit routes for the city of Boston.
 
+
+ * Fairmount
+ * Fitchburg/South Acton
+ * Framingham/Worcester
+ * Franklin
+
+ * Greenbush
+ * Haverhill
+ * Kingston/Plymouth
+ * Lowell
+
+ * Middleborough/Lakeville
+ * Needham
+ * Newburyport/Rockport
+ * Providence/Stoughton
+
+
+
+
 This **master** branch you’re looking at has the Python code used to generate the data files used by the visualization. The visualization itself is in the **gh-pages** branch.
 
 ### Running locally for forking/development
