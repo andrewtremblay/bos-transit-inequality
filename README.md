@@ -1,9 +1,9 @@
 Inequality & Mass Transit in the Bay Area
 =====================
 
-This is a mashup to overlay demographic info with the all the major mass transit routes in the San Francisco Bay Area.
+This is a mashup to overlay demographic info with the all the major mass transit routes for the city of Boston.
 
-This **master** branch you’re looking at has the Python code used to generate the data files used by the visualization.. The visualization itself is in the **gh-pages** branch.
+This **master** branch you’re looking at has the Python code used to generate the data files used by the visualization. The visualization itself is in the **gh-pages** branch.
 
 ### Running locally for forking/development
 
@@ -11,7 +11,7 @@ To run the Javascript app locally, you can e.g. use Python's one-line web server
 
 First go into the repo directory:
 
-    cd sf-transit-inequality
+    cd bos-transit-inequality
 
 Then check out the gh-pages branch:
 
