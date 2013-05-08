@@ -3,22 +3,27 @@ Inequality & Mass Transit in the Mass Bay Area
 
 This is a mashup to overlay demographic info with the all the major mass transit routes for the city of Boston.
 
-
+The Rails
  * Fairmount
  * Fitchburg/South Acton
  * Framingham/Worcester
  * Franklin
-
  * Greenbush
  * Haverhill
  * Kingston/Plymouth
  * Lowell
-
  * Middleborough/Lakeville
  * Needham
  * Newburyport/Rockport
  * Providence/Stoughton
 
+
+The Subways
+ * Blue Line
+ * Green Line
+ * Orange Line
+ * Red Line
+ * Silver Line
 
 
 
